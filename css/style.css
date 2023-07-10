@@ -1,0 +1,70 @@
+.title{
+ color: rgb(245, 93, 17);
+ margin-left: 600px;
+}
+
+
+.input{
+ width:1535px;
+ height: 100px;
+ background-color: aquamarine;
+
+}
+
+.img1{
+height: 300px;
+width: 377px;
+
+}
+.imagespace{
+ margin-left: 5px;
+ margin-top: 3px;
+
+}
+
+.thisu{
+    display: flex;
+    flex-direction: row;
+}
+.pagenumbersbar{
+    margin-left: 630px;
+}
+
+.nametag{
+    margin-left: 76px;
+}
+
+.left{
+    margin-left: 20px;
+}
+
+.image2name{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.button1{
+    color: aqua;
+    border-radius: 80px  ;
+    margin-left: 60px;
+    background-color: black;
+    margin-bottom: 100px;
+}
+
+.input1{
+margin-left: 20px;
+height: 50px;
+width:250px;
+border-radius: 90px;
+color: black;
+background-color: rgb(97, 253, 211);
+}
+
+.button2{
+    color: aqua;
+    border-radius: 80px  ;
+    margin-left: 60px;
+    background-color: black;
+    margin-bottom: 100px;
+}
